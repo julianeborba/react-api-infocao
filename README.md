@@ -56,3 +56,4 @@ Esse projeto foi criado através do [Create React App](https://github.com/facebo
 Se quiser saber mais sobre a ferramenta, recomendo ler o [material disponível na documentação do React](https://pt-br.reactjs.org/docs/context.html).
 
 Quaisquer dúvidas, críticas ou comentários estou à disposição!
+# react-api-infocao
